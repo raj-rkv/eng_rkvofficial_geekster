@@ -1,0 +1,10 @@
+a. ans=true
+b. ans=true
+c. ans=false
+d. ans=true
+e. ans=true
+f. ans=true
+g. ans=false
+h. ans=true
+i. ans=true
+j. ans=true
